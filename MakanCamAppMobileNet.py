@@ -5,6 +5,7 @@ import numpy as np
 
 cap = cv2.VideoCapture(0)
 
+# change the model file name as needed
 new_model = tf.keras.models.load_model(
     'makan_mobilenet.h5')
 
