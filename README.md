@@ -1,6 +1,6 @@
 # ITNPBDJ---Dissertation-Project
 
-L2_Makan_MobileNet.ipynb => file for training MobileNet mmdel.
+L2_Makan_MobileNet.ipynb => file for training MobileNet model.
 
 MakanCamAppIncep.py => file to run inception model on PC with webcam.
 
